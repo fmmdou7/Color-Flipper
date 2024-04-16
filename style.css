@@ -1,0 +1,15 @@
+#colorpad{
+    background-color:#000;
+    display: flex;
+    justify-content: center;
+    padding: 330px;
+}
+
+button{
+background-color:lightgray;
+    align-content: center;
+    height: 100px;
+    width: 150px;
+    font-size: larger;
+   
+}
